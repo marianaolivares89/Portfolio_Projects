@@ -2,6 +2,7 @@
 Cleaning Data in SQL Queries
 */
 
+
 SELECT *
 FROM [Portfolio Project].dbo.Nashville_Housing
 
